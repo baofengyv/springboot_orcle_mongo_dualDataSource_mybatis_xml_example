@@ -1,11 +1,13 @@
-# springboot_oracle_mybatis_xml_example
-spring boot oracle mybatis xml example
+# springboot_orcle_mongo_dualDataSource_mybatis_xml_example
+spring boot oracle mongo dualDataSource mybatis xml example
 
 极简化的 
 
     spring boot + 
     mybatis(使用XML mapper) +
     oracle + 
+    mongo +
+    双数据源 +
     maven mybatis generator plugin
 
 
